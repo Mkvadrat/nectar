@@ -1,4 +1,18 @@
-    <footer>
+        <script>
+      jQuery(document).ready(function( $ ) {
+        $("header .cooperation a").on('click', function(event){
+			event.preventDefault()
+			$('.overlay').addClass('open');
+		})
+      });
+	  $(document).mouseup(function (e) {
+			var container = $(".opt-form");
+			if (container.has(e.target).length === 0){
+				$('.overlay').removeClass('open');
+			}
+		});
+    </script>
+	<footer>
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-6">
