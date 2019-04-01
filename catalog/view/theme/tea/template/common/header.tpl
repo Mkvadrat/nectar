@@ -128,10 +128,10 @@
 				  <div>
 					<div class="form-info">
 					  <input type="text" id="name_customer" class="reset_input" placeholder="Введите Ваше имя">
-					  <input type="text" id="phone_customer" class="reset_input" placeholder="Введите Ваш номер телефона">
+					  <input type="text" id="phone_customer" class="reset_input" placeholder="*Введите Ваш номер телефона">
 					  <input type="email" id="email_customer" class="reset_input" placeholder="*Введите Ваш e-mail">
 					</div>
-					<div class="warning"></div>
+					<div class="warning-customer"></div>
 					<div class="formname">
 						<input id="checkbox2" type="checkbox" name="checkbox2" onchange="document.getElementById('submit2').disabled = !document.getElementById('checkbox2').checked;">
 						<label for="checkbox2">Я согласен с политикой конфиденциальности</label>
