@@ -57,6 +57,7 @@
 <?php foreach ($analytics as $analytic) { ?>
 <?php echo $analytic; ?>
 <?php } ?>
+<meta name="yandex-verification" content="6a4557f4b1130a04" />
 </head>
 <body>
   <header>

@@ -1,0 +1,9 @@
+2019-04-11 10:52:06 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-11 10:52:19 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-11 12:09:06 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-11 12:09:11 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-11 12:15:10 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-11 12:43:08 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-11 12:43:46 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-11 14:50:00 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-11 14:50:02 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
