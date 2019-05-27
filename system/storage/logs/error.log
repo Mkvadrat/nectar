@@ -7,3 +7,5 @@
 2019-04-11 12:43:46 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
 2019-04-11 14:50:00 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
 2019-04-11 14:50:02 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.yandex.ru:465 (Connection timed out) in /home/nectar/public_html/system/library/mail.php on line 167
+2019-04-29 10:47:08 - PHP Notice:  Undefined variable: button_enable in /home/nectar/public_html/admin/view/template/design/custommenu.tpl on line 238
+2019-04-29 10:47:30 - PHP Notice:  Undefined variable: button_enable in /home/nectar/public_html/admin/view/template/design/custommenu_footer.tpl on line 238
